@@ -1,0 +1,13 @@
+console.log("Hello from ts");
+console.log("isuru");
+var strArr;
+var numArr;
+var boolArr;
+var mystring1 = 'Hello';
+var mystring2 = 'Hello'.slice(0, 2);
+strArr = ['isuru', 'srimal'];
+numArr = [1, 2, 3, 4, 5];
+boolArr = [true, false, true];
+console.log(strArr);
+console.log(numArr);
+console.log(boolArr);
